@@ -22,4 +22,4 @@ Centralizing its development process around Git providers like **GitHub**, FastS
 
 FastStore is a testament to VTEX's commitment to delivering cutting-edge e-commerce solutions. By emphasizing flexibility, performance, and quality, FastStore equips merchants and developers with the tools they need to create unparalleled online shopping experiences.
 
-[Back][README.md]
+[Back](README.md)
